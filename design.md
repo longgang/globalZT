@@ -84,6 +84,8 @@ __别名访问：__
 
 __业务流程：__
 
+[![DWzZuR.png](https://s3.ax1x.com/2020/12/01/DWzZuR.png)](https://imgchr.com/i/DWzZuR)
+
 ![img](https://p0.ssl.qhimg.com/t01e81f57689bd55bd5.png)
 
 ### 三、Server Agent设计
@@ -117,13 +119,3 @@ _Server Agent的单点故障问题，需要上层Gateway的负载均衡功能来
 ### 六、Center设计
 
 安全服务中心的需求已经比较明确，这里直接给出产品[原型设计](https://axhub.im/ax9/0821604795bb301f)
-
- 
-
-**关于开源**
-
-GitHub项目地址：https://github.com/userlxd/GlobalZT
-
-代码只开了个头，设计现行开源，希望各位读者可以提出对设计的意见和建议，避免作者个人的思维局限。MVP版本计划于_2020年12月25日_发布，非工作时间编码，___争取不鸽___。
-
-联系方式： 邮箱[userlxd@qq.com](mailto:userlxd@qq.com) 微信lllolllll

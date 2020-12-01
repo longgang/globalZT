@@ -84,7 +84,7 @@ __别名访问：__
 
 __业务流程：__
 
-[![DWzZuR.png](https://s3.ax1x.com/2020/12/01/DWzZuR.png)](https://imgchr.com/i/DWzZuR)
+![img](https://s3.ax1x.com/2020/12/01/DWzZuR.png)
 
 ![img](https://p0.ssl.qhimg.com/t01e81f57689bd55bd5.png)
 
